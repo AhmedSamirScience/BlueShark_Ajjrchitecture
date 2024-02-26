@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+#I didn't include these files because they keep changing whenever I clone the project.
+/.idea/gradle.xml
+/.idea/misc.xml
